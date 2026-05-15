@@ -5,8 +5,11 @@
 
 - 🌱 I’m currently learning **Ethical hacking**
 
-<h3 align="left">The quieter you become, the more you are able to hear.<br>Anonymous<br</h3>
-<!-- Hacker Terminal Banner for GitHub README -->
+<h3 align="left">
+  <code>The quieter you become, the more you are able to hear.</code><br>
+  🎭🕵️‍💻Anonymous<br>
+</h3>
+<!-- Hacker Terminal Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Odegejr;Ethical+Hacker+%7C+Cybersecurity+Enthusiast;Control+Your+Ghost%2C+Become+the+Algorithm.;CYGBA" alt="Typing SVG" />
 </p>
