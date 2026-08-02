@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm odegejr</h1>
 <h3 align="center">An Ethical Hacker</h3>
 
-- 🔭 I’m currently working on **my hacking skills**
-
-- 🌱 I’m currently learning **Ethical hacking**
+- 🔭 `[PROCESS: ACTIVE]` Currently working on **sharpening my offensive security skills**
+- 🌱 `[PROCESS: LEARNING]` Currently deep-diving into **Ethical Hacking & Penetration Testing**
 
 <h3 align="left">
   <code>The quieter you become, the more you are able to hear.</code><br>
   🎭🕵️‍💻Anonymous<br>
 </h3>
+
 <!-- Hacker Terminal Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Odegejr;Ethical+Hacker+%7C+Cybersecurity+Enthusiast;Control+Your+Ghost%2C+Become+the+Algorithm.;CYGBA" alt="Typing SVG" />
@@ -21,6 +21,10 @@
 <h3 align="center">
   <code>Initializing CYGBA Protocol...</code>
 </h3>
+
+<p align="center">
+  <img src="odegejr_hacker_banner.svg" alt="Odegejr Hacker Terminal Banner" width="800"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
