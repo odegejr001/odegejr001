@@ -30,10 +30,10 @@
 <p align="left">
 <a href="https://x.com/odegejr001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X:@odegejr001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/odegejr001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LI:odegejr001" height="30" width="40" /></a>
-<a href="https://facebook.com/odegejr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FB@odegejr" height="30" width="40" /></a>
-<a href="https://instagram.com/odegejr001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="IG:@odegejr001" height="30" width="40" /></a>
-<a href="https://tiktok.com/@odegejr001_" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/tiktok.svg" alt="TK:@odegejr001_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@odegejr001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YT:@odegejr001" height="30" width="40" /></a>
+<a href="https://facebook.com/odegejr.officialr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FB@odegejr.official" height="30" width="40" /></a>
+<a href="https://instagram.com/odegejr.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="IG:odegejr.official" height="30" width="40" /></a>
+<a href="https://tiktok.com/@odegejr.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/tiktok.svg" alt="TK:@odegejr.official" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@odegejr.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YT:@odegejr.official" height="30" width="40" /></a>
 <a href="https://discord.gg/nhSbfWhgPG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nhSbfWhgPG" height="30" width="40" /></a>
 </p>
 
